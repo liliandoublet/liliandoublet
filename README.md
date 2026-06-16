@@ -8,33 +8,33 @@
 
 ### 🛠️ Tech stack
 
-**Languages** Python, SQL, DAX
+**Languages**: Python, SQL, DAX
 
-**ML / NLP** scikit-learn, Hugging Face, CamemBERT, SARIMA, ARIMA, LSTM
+**ML / NLP**: scikit-learn, Hugging Face, CamemBERT, SARIMA, ARIMA, LSTM
 
-**GenAI / LLM** RAG, Anthropic Claude API, Gemini API, ChromaDB
+**GenAI / LLM**: RAG, Anthropic Claude API, Gemini API, ChromaDB
 
-**Data viz** Power BI (star schema modeling)
+**Data viz**: Power BI (star schema modeling)
 
-**Cloud / Infra** AWS (Lambda, S3, EventBridge), Docker, FastAPI, Streamlit
+**Cloud / Infra**: AWS (Lambda, S3, EventBridge), Docker, FastAPI, Streamlit
 
-**MLOps** MLflow, pytest, GitHub Actions (CI), pre-commit, ruff, uv
+**MLOps**: MLflow, pytest, GitHub Actions (CI), pre-commit, ruff, uv
 
 ---
 
 ### 📌 Featured projects
 
-**[sherlock](https://github.com/liliandoublet/sherlock)** Production-grade French NLP pipeline. Built with uv, Pydantic, Typer CLI, loguru, MLflow, CamemBERT, pytest and GitHub Actions CI.
+**[sherlock](https://github.com/liliandoublet/sherlock)**: Production-grade French NLP pipeline. Built with uv, Pydantic, Typer CLI, loguru, MLflow, CamemBERT, pytest and GitHub Actions CI.
 
-**[GraduateProject](https://github.com/liliandoublet/GraduateProject)** CamemBERT fine-tuning for French political discourse classification. 15,000+ texts, F1 macro 0.63 (thesis graded 87/100).
+**[camembert-discours-politique](https://github.com/liliandoublet/GraduateProject)**: CamemBERT fine-tuning for French political discourse classification. 15,000+ texts, F1 macro 0.63 (thesis graded 87/100).
 
-**[techradar](https://github.com/liliandoublet/techradar)** Serverless AWS agent (Lambda, S3, EventBridge) that scrapes and summarizes tech news with the Anthropic Claude API, delivered via SendGrid.
+**[techradar](https://github.com/liliandoublet/techradar)**: Serverless AWS agent (Lambda, S3, EventBridge) that scrapes and summarizes tech news with the Anthropic Claude API, delivered via SendGrid.
 
-**[askmydocs](https://github.com/liliandoublet/askmydocs)** RAG assistant for querying your own documents. Built with ChromaDB, the Gemini API and a Streamlit / Docker stack.
+**[askmydocs](https://github.com/liliandoublet/askmydocs)**: RAG assistant for querying your own documents. Built with ChromaDB, the Gemini API and a Streamlit / Docker stack.
 
-**[HR-Dashboard](https://github.com/liliandoublet/HR-Dashboard)** HR analytics dashboard built in Python during my Data Analyst internship at Crédit Mutuel Alliance Fédérale (HR Digital Transformation team)..
+**[HR-Dashboard](https://github.com/liliandoublet/HR-Dashboard)**: HR analytics dashboard built in Python during my Data Analyst internship at Crédit Mutuel Alliance Fédérale (HR Digital Transformation team)..
 
-**[newflights](https://github.com/liliandoublet/newflights)** Airfare optimization app. React / TypeScript / Vite frontend, FastAPI backend.
+**[newflights](https://github.com/liliandoublet/newflights)**: Airfare optimization app. React / TypeScript / Vite frontend, FastAPI backend.
 
 ---
 
