@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/Agentic_AI-6E40C9?logo=langchain&logoColor=white" alt="Agentic AI">
+  <img src="https://img.shields.io/badge/RAG-FF6F61?logo=chromadb&logoColor=white" alt="RAG">
+  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?logo=googlecloud&logoColor=white" alt="Cloud Computing">
 </p>
 
 <p align="center">
@@ -56,18 +59,8 @@
 
 ### 📫 Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/liliandoublet) · liliandoublet@gmail.com · Paris, France
-<!--
-**liliandoublet/liliandoublet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/liliandoublet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Email-liliandoublet@gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Paris,_France-555?logo=googlemaps&logoColor=white" alt="Location">
+</p>
