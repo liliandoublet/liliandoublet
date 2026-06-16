@@ -9,10 +9,15 @@
 ### 🛠️ Tech stack
 
 **Languages** Python, SQL, DAX
+
 **ML / NLP** scikit-learn, Hugging Face, CamemBERT, SARIMA, ARIMA, LSTM
+
 **GenAI / LLM** RAG, Anthropic Claude API, Gemini API, ChromaDB
+
 **Data viz** Power BI (star schema modeling)
+
 **Cloud / Infra** AWS (Lambda, S3, EventBridge), Docker, FastAPI, Streamlit
+
 **MLOps** MLflow, pytest, GitHub Actions (CI), pre-commit, ruff, uv
 
 ---
