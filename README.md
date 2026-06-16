@@ -1,8 +1,24 @@
-# Hi, I'm Lilian Doublet 👋
+<h1 align="center">Hi, I'm Lilian Doublet 👋</h1>
 
-**Data / AI professional based in Paris.** I build production-grade NLP and machine learning systems, and I turn technical work into clear value for business stakeholders.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow">
+</p>
 
-🔭 Open to **Data Analyst, Data Scientist and AI Engineer** roles, with a focus on data consulting.
+<p align="center">
+  <b>Data / AI professional based in Paris.</b><br>
+  I build production-grade NLP and machine learning systems, and I turn technical work into clear value for business stakeholders.
+</p>
+
+<p align="center">
+  🔭 Open to <b>Data Analyst, Data Scientist and AI Engineer</b> roles, with a focus on data consulting.
+</p>
 
 ---
 
