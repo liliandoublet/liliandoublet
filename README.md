@@ -29,15 +29,15 @@
 
 **Languages**: Python, SQL, DAX
 
-**ML / NLP**: scikit-learn, Hugging Face, CamemBERT, SARIMA, ARIMA, LSTM
+**ML / NLP**: scikit-learn, Hugging Face Transformers (CamemBERT), Time Series Forecasting (ARIMA, SARIMA, LSTM)
 
-**GenAI / LLM**: RAG, Anthropic Claude API, Gemini API, ChromaDB
+**GenAI / LLM**: Retrieval-Augmented Generation (RAG), Anthropic Claude API, Gemini API, ChromaDB, Ollama
 
 **Data viz**: Power BI (star schema modeling)
 
 **Cloud / Infra**: AWS (Lambda, S3, EventBridge), Docker, FastAPI, Streamlit
 
-**MLOps**: MLflow, pytest, GitHub Actions (CI), pre-commit, ruff, uv
+**MLOps**: MLflow, Git, GitHub Actions (CI),  pytest, pre-commit, ruff, uv
 
 ---
 
