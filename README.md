@@ -51,7 +51,7 @@
 
 **[askmydocs](https://github.com/liliandoublet/askmydocs)**: RAG assistant for querying your own documents. Built with ChromaDB, the Gemini API and a Streamlit / Docker stack.
 
-**[HR-Dashboard](https://github.com/liliandoublet/HR-Dashboard)**: HR analytics dashboard built in Python during my Data Analyst internship at Crédit Mutuel Alliance Fédérale (HR Digital Transformation team)..
+**[HR-Dashboard](https://github.com/liliandoublet/HR-Dashboard)**: HR analytics dashboard built in Python during my Data Analyst internship at Crédit Mutuel Alliance Fédérale (HR Digital Transformation team).
 
 **[newflights](https://github.com/liliandoublet/newflights)**: Airfare optimization app. React / TypeScript / Vite frontend, FastAPI backend.
 
