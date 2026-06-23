@@ -47,7 +47,7 @@
 
 **[camembert-discours-politique](https://github.com/liliandoublet/GraduateProject)**: CamemBERT fine-tuning for French political discourse classification. 15,000+ texts, F1 macro 0.63 (thesis graded 87/100).
 
-**[techradar](https://github.com/liliandoublet/techradar)**: Serverless AWS agent (Lambda, S3, EventBridge) that scrapes and summarizes tech news with the Anthropic Claude API, delivered via SendGrid.
+**[techradar](https://github.com/liliandoublet/techradar)**: Serverless AWS agent (Lambda, S3, EventBridge) that scrapes and summarizes tech news with Google Gemini AI and LangGraph, delivered via SendGrid.
 
 **[askmydocs](https://github.com/liliandoublet/askmydocs)**: RAG assistant for querying your own documents. Built with ChromaDB, the Gemini API and a Streamlit / Docker stack.
 
