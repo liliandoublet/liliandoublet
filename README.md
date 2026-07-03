@@ -27,10 +27,15 @@
 ### 🛠️ Tech stack
 
 **Languages**: Python, SQL, DAX
+
 **ML / NLP**: scikit-learn, Hugging Face Transformers (CamemBERT), time series forecasting (ARIMA, SARIMA, LSTM)
+
 **GenAI / LLM**: Retrieval-Augmented Generation (RAG), LangGraph, Anthropic Claude API, Gemini API, ChromaDB, Ollama
+
 **Data viz**: Power BI (star schema modeling)
+
 **Cloud / Infra**: AWS (Lambda, S3, EventBridge), Docker, FastAPI, Streamlit
+
 **MLOps**: MLflow, Git, GitHub Actions (CI), pytest, pre-commit, ruff, uv
 
 ---
