@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  <b>Data Scientist & AI Engineer based in Paris.</b><br>
+  <b>Data Analyst & Data Scientist based in Paris.</b><br>
   I build production-grade NLP and ML systems, including fine-tuned French-language models, and turn technical work into clear value for business stakeholders.
 </p>
 
 <p align="center">
-  🔭 Open to <b>Data Scientist, AI Engineer and Data Consultant</b> roles.
+  🔭 Open to <b>Data Analyst, Data Scientist/AI Engineer and Data Consultant</b> roles.
 </p>
 
 ---
