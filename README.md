@@ -24,12 +24,19 @@
 ### 🛠️ Tech stack
 
 **Languages**: Python, SQL, DAX
+
 **Data analysis**: pandas, NumPy, exploratory data analysis (EDA), statistical analysis, KPI design, A/B testing, data storytelling, Excel
+
 **Data viz / BI**: Power BI (star schema modeling, DAX measures), Streamlit, Matplotlib, Plotly, Seaborn
+
 **ML / NLP**: scikit-learn, Hugging Face Transformers (CamemBERT), time series forecasting (ARIMA, SARIMA, LSTM)
+
 **GenAI / LLM**: Retrieval-Augmented Generation (RAG), LangGraph, Anthropic Claude API, Gemini API, ChromaDB, Ollama
+
 **Databases**: PostgreSQL, VerticaPy
+
 **Cloud / Infra**: AWS (Lambda, S3, EventBridge), Docker, FastAPI
+
 **MLOps / tooling**: MLflow, Git, GitHub Actions (CI), pytest, pre-commit, ruff, uv
 
 ---
