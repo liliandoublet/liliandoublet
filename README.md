@@ -1,4 +1,9 @@
 <h1 align="center">Hi, I'm Lilian Doublet, welcome to my GitHub 👋</h1>
+
+<p align="center">
+  <a href="README.md">🇬🇧 English</a> | <a href="README.fr.md">🇫🇷 Français</a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
