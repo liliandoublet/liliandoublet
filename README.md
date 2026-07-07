@@ -45,7 +45,7 @@
 
 **[HR-Dashboard](https://github.com/liliandoublet/HR-Dashboard)**: Interactive HR analytics dashboard (Python, Dash, Plotly) built during my Data Analyst internship at Crédit Mutuel Alliance Fédérale. Turns 50,000+ HR records into KPIs and self-service reporting for the HR Digital Transformation team.
 
-**[walmart-sales-forecasting](https://github.com/liliandoublet/REPO_A_COMPLETER)**: Sales forecasting dashboard in Power BI. Star schema, DAX measures and SARIMA forecasting reaching 2.22% MAPE, designed to support business decision-making.
+**[walmart-sales-forecasting](https://github.com/liliandoublet/walmart-sales-forecasting)**: Sales forecasting dashboard in Power BI. Star schema, DAX measures and SARIMA forecasting reaching 2.22% MAPE, designed to support business decision-making.
 
 **[sql-portfolio](https://github.com/liliandoublet/sql-portfolio)**: SQL project showcasing core DDL and DML operations: table creation and modification, insert / update / delete, SELECT queries, joins, aggregations (GROUP BY, HAVING) and data quality checks.
 
