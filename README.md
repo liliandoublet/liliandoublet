@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain">
 </p>
 <p align="center">
-  <b>Data Analyst & Data Scientist based in Paris.</b><br>
+  <b>Data Analyst, Analytics Engineer & Data Scientist based in Paris.</b><br>
   I turn raw data into dashboards, models and decisions: from SQL exploration and Power BI reporting to production-grade NLP and ML systems, always framed around clear value for business stakeholders.
 </p>
 <p align="center">
