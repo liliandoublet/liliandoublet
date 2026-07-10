@@ -19,6 +19,8 @@
 </p>
 <p align="center">
 
+---
+
 ### About Me 🚀
 
 👨‍💻 Passionate about Data Analytics & Science & AI
