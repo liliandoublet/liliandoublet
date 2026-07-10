@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je suis Lilian Doublet, bienvenue sur mon GitHub 👋</h1>
 <p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/lang-English-blue" alt="English"></a>
-  <a href="README.fr.md"><img src="https://img.shields.io/badge/lang-Fran%C3%A7ais-red" alt="Français"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue" alt="English"></a>
+  <a href="README.fr.md"><img src="https://img.shields.io/badge/Langue-Fran%C3%A7ais-red" alt="Français"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
