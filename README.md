@@ -42,7 +42,7 @@
 - [Data Analyst for Capsanté Ambulances (Freelance)](https://www.capsanteambulances.fr/)
 
 <p align="center">
-  <img src="assets/experiences.png" alt="Crédit Mutuel Alliance Fédérale, Capsanté Ambulances" width="600" />
+  <img src="experiences.png" alt="Crédit Mutuel Alliance Fédérale, Capsanté Ambulances" width="600" />
 </p>
   
 ---
