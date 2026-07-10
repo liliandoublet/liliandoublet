@@ -39,6 +39,8 @@
 
 🧑‍🎓 Lifelong learner, always curious and autonomous
 
+🧩 Problem solver at heart, always chasing the next challenge
+
 ---
 
 ## My Experiences 👀
