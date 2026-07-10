@@ -90,6 +90,17 @@
 - **[newflights](https://github.com/liliandoublet/newflights)**: Airfare optimization app. React / TypeScript / Vite frontend, FastAPI backend.
 
 ---
+---
+
+### 🚧 Work in progress
+
+- **[data-engineer-toolbox](https://github.com/liliandoublet/data-engineer-toolbox)**: Portfolio and learning repo to master the core data engineering tools (dbt, Snowflake, Airflow, and more), with hands-on examples and documentation.
+
+- **[moliere](https://github.com/liliandoublet/moliere)**: Local, GDPR-compliant French writing assistant, available in two versions: one powered by an LLM, the other by the rule-based Grammalecte engine.
+
+- **[newflights](https://github.com/liliandoublet/newflights)**: Airfare optimization app. React / TypeScript / Vite frontend, FastAPI backend.
+
+---
 
 ### 📫 Get in touch
 
