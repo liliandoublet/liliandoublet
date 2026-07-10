@@ -26,6 +26,26 @@
 
 ---
 
+### About Me 🚀
+
+👨‍💻 Passionate about Data Analytics & Science & AI
+🧑‍🎓 Lifelong learner, always curious
+✍️ Obsessed with clean, well-structured documentation
+
+---
+
+### My Experiences
+
+## My Experiences 👀
+
+- [Data Analyst for Crédit Mutuel Alliance Fédérale (Internship)](https://www.creditmutuel.fr/fr/alliancefederale.html)
+- [Data Analyst for Capsanté Ambulances (Freelance)](https://www.capsanteambulances.fr/)
+
+<p align="center">
+  <img src="assets/experiences.png" alt="Crédit Mutuel Alliance Fédérale, Capsanté Ambulances" width="600" />
+</p>
+  
+---
 ### 🛠️ Tech stack
 
 **Languages**: Python, SQL, DAX
@@ -55,8 +75,6 @@
 **[sql-portfolio](https://github.com/liliandoublet/sql-portfolio)**: SQL project showcasing core DDL and DML operations: table creation and modification, insert / update / delete, SELECT queries, joins, aggregations (GROUP BY, HAVING) and data quality checks.
 
 **[sherlock](https://github.com/liliandoublet/sherlock)**: Production-grade French NLP pipeline. Built with uv, Pydantic, Typer CLI, loguru, MLflow, CamemBERT, pytest and GitHub Actions CI.
-
-**[camembert-discours-politique](https://github.com/liliandoublet/GraduateProject)**: CamemBERT fine-tuned for multi-class classification of French political discourse. 15,000+ annotated texts, MLflow experiment tracking, thesis graded 87/100.
 
 **[askmydocs](https://github.com/liliandoublet/askmydocs)**: RAG assistant for querying your own documents. Built with ChromaDB, the Gemini API and a Streamlit / Docker stack, with an evaluation harness measuring hit rate and keyword recall.
 
