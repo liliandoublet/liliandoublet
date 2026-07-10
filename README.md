@@ -39,8 +39,6 @@
 
 🧑‍🎓 Lifelong learner, always curious and autonomous
 
-✍️ Obsessed with clean, well-structured documentation
-
 ---
 
 ## My Experiences 👀
