@@ -15,13 +15,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain">
 </p>
-<p align="center">
-  <b>Data Analyst et Data Scientist basé à Paris.</b><br>
-  Je transforme des données brutes en tableaux de bord, modèles et décisions : de l'exploration SQL et du reporting Power BI jusqu'aux systèmes NLP et ML en production, toujours pensés autour d'une valeur claire pour les équipes métier.
-</p>
-<p align="center">
-  🔭 Ouvert aux postes de <b>Data Analyst, Data Scientist / AI Engineer et Data Consultant</b>.
-</p>
 
 ---
 
