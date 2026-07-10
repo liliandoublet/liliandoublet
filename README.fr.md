@@ -24,11 +24,14 @@
 </p>
 
 ---
+
 ### À propos de moi 🚀
 👨‍💻 Passionné par la Data Analytics, la Data Science et l'IA
 🧑‍🎓 En apprentissage continu, toujours curieux et autonome
 ✍️ Obsédé par une documentation claire et bien structurée
+
 ---
+
 ## Mes expériences 👀
 - [Data Analyst chez Crédit Mutuel Alliance Fédérale (Stage)](https://www.creditmutuel.fr/fr/alliancefederale.html)
 - [Data Analyst chez Capsanté Ambulances (Freelance)](https://www.capsanteambulances.fr/)
