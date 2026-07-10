@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue" alt="English"></a>
-  <a href="README.fr.md"><img src="https://img.shields.io/badge/Language-Fran%C3%A7ais-red" alt="Français"></a>
+  <a href="README.fr.md"><img src="https://img.shields.io/badge/Langue-Fran%C3%A7ais-red" alt="Français"></a>
 </p>
 
 <p align="center">
