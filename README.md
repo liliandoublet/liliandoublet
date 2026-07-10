@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Lilian Doublet, welcome to my GitHub 👋</h1>
 
 <p align="center">
-  <a href="README.md">🇬🇧 English</a> | <a href="README.fr.md">🇫🇷 Français</a>
+  <a href="README.md"><img src="https://img.shields.io/badge/lang-English-blue" alt="English"></a>
+  <a href="README.fr.md"><img src="https://img.shields.io/badge/lang-Fran%C3%A7ais-red" alt="Français"></a>
 </p>
 
 <p align="center">
