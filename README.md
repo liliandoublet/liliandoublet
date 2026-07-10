@@ -21,6 +21,17 @@
 
 ---
 
+<p align="center">
+  <b>Data & AI professional based in Paris.</b><br>
+  I bridge deep technical work (French NLP, ML, RAG) and business-facing analytics (SQL, Power BI, forecasting), turning data into decisions clients can act on.
+</p>
+
+<p align="center">
+  🔭 Open to <b>Data Scientist, AI Engineer, Data Analyst and Consultant</b> roles.
+</p>
+
+---
+
 ### About Me 🚀
 
 👨‍💻 Passionate about Data Analytics & Science & AI
