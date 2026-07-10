@@ -29,12 +29,12 @@
 ### About Me 🚀
 
 👨‍💻 Passionate about Data Analytics & Science & AI
+
 🧑‍🎓 Lifelong learner, always curious
+
 ✍️ Obsessed with clean, well-structured documentation
 
 ---
-
-### My Experiences
 
 ## My Experiences 👀
 
@@ -68,19 +68,19 @@
 
 ### 📌 Featured projects
 
-**[HR-Dashboard](https://github.com/liliandoublet/HR-Dashboard)**: Interactive HR analytics dashboard (Python, Dash, Plotly) built during my Data Analyst internship at Crédit Mutuel Alliance Fédérale. Turns 50,000+ HR records into KPIs and self-service reporting for the HR Digital Transformation team.
+- **[HR-Dashboard](https://github.com/liliandoublet/HR-Dashboard)**: Interactive HR analytics dashboard (Python, Dash, Plotly) built during my Data Analyst internship at Crédit Mutuel Alliance Fédérale. Turns 50,000+ HR records into KPIs and self-service reporting for the HR Digital Transformation team.
 
-**[walmart-sales-forecasting](https://github.com/liliandoublet/walmart-sales-forecasting)**: Sales forecasting dashboard in Power BI. Star schema, DAX measures and SARIMA forecasting reaching 2.22% MAPE, designed to support business decision-making.
+- **[walmart-sales-forecasting](https://github.com/liliandoublet/walmart-sales-forecasting)**: Sales forecasting dashboard in Power BI. Star schema, DAX measures and SARIMA forecasting reaching 2.22% MAPE, designed to support business decision-making.
 
-**[sql-portfolio](https://github.com/liliandoublet/sql-portfolio)**: SQL project showcasing core DDL and DML operations: table creation and modification, insert / update / delete, SELECT queries, joins, aggregations (GROUP BY, HAVING) and data quality checks.
+- **[sql-portfolio](https://github.com/liliandoublet/sql-portfolio)**: SQL project showcasing core DDL and DML operations: table creation and modification, insert / update / delete, SELECT queries, joins, aggregations (GROUP BY, HAVING) and data quality checks.
 
-**[sherlock](https://github.com/liliandoublet/sherlock)**: Production-grade French NLP pipeline. Built with uv, Pydantic, Typer CLI, loguru, MLflow, CamemBERT, pytest and GitHub Actions CI.
+- **[sherlock](https://github.com/liliandoublet/sherlock)**: Production-grade French NLP pipeline. Built with uv, Pydantic, Typer CLI, loguru, MLflow, CamemBERT, pytest and GitHub Actions CI.
 
-**[askmydocs](https://github.com/liliandoublet/askmydocs)**: RAG assistant for querying your own documents. Built with ChromaDB, the Gemini API and a Streamlit / Docker stack, with an evaluation harness measuring hit rate and keyword recall.
+- **[askmydocs](https://github.com/liliandoublet/askmydocs)**: RAG assistant for querying your own documents. Built with ChromaDB, the Gemini API and a Streamlit / Docker stack, with an evaluation harness measuring hit rate   and keyword recall.
 
-**[techradar](https://github.com/liliandoublet/techradar)**: Serverless AWS agent (Lambda, S3, EventBridge) that scrapes and summarizes tech news with Google Gemini and LangGraph, delivered by email via SendGrid.
+- **[techradar](https://github.com/liliandoublet/techradar)**: Serverless AWS agent (Lambda, S3, EventBridge) that scrapes and summarizes tech news with Google Gemini and LangGraph, delivered by email via SendGrid.
 
-**[newflights](https://github.com/liliandoublet/newflights)**: Airfare optimization app. React / TypeScript / Vite frontend, FastAPI backend.
+- **[newflights](https://github.com/liliandoublet/newflights)**: Airfare optimization app. React / TypeScript / Vite frontend, FastAPI backend.
 
 ---
 
