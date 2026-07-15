@@ -1,8 +1,10 @@
 <h1 align="center">Bonjour, je suis Lilian Doublet, bienvenue sur mon GitHub 👋</h1>
+
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue" alt="English"></a>
   <a href="README.fr.md"><img src="https://img.shields.io/badge/Langue-Fran%C3%A7ais-red" alt="Français"></a>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
@@ -11,9 +13,22 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white" alt="Snowflake">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain">
+</p>
+<p align="center">
+
+---
+
+<p align="center">
+  <b>Professionnel de la Data et de l'IA basé à Paris.</b><br>
+  Je fais le lien entre l'expertise technique (NLP français, ML, RAG) et l'analytique orientée métier (SQL, Power BI, prévision), pour transformer la donnée en décisions actionnables pour les clients.
+</p>
+
+<p align="center">
+  🔭 Ouvert aux postes de <b>Data Scientist, AI Engineer, Data Analyst et Consultant</b>.
 </p>
 
 ---
@@ -22,15 +37,17 @@
 
 👨‍💻 Passionné par la Data Analytics, la Data Science et l'IA
 
-🧑‍🎓 En apprentissage continu, toujours curieux et autonome
+🧑‍🎓 Apprenant permanent, toujours curieux et autonome
 
-✍️ Obsédé par une documentation claire et bien structurée
+🧩 Résolveur de problèmes dans l'âme, toujours à la recherche du prochain défi
 
 ---
 
 ## Mes expériences 👀
+
 - [Data Analyst chez Crédit Mutuel Alliance Fédérale (Stage)](https://www.creditmutuel.fr/fr/alliancefederale.html)
 - [Data Analyst chez Capsanté Ambulances (Freelance)](https://www.capsanteambulances.fr/)
+
 <p align="center">
   <img src="experiences.png" alt="Crédit Mutuel Alliance Fédérale, Capsanté Ambulances" width="600" />
 </p>
@@ -62,17 +79,26 @@
 
 - **[walmart-sales-forecasting](https://github.com/liliandoublet/walmart-sales-forecasting)** : tableau de bord de prévision des ventes sous Power BI. Schéma en étoile, mesures DAX et prévision SARIMA atteignant 2,22 % de MAPE, conçu pour appuyer la prise de décision métier.
 
-- **[sql-portfolio](https://github.com/liliandoublet/sql-portfolio)** : projet SQL illustrant les opérations DDL et DML fondamentales : création et modification de tables, insert / update / delete, requêtes SELECT, jointures, agrégations (GROUP BY, HAVING) et contrôles de qualité des données.
+- **[sql-portfolio](https://github.com/liliandoublet/sql-portfolio)** : projet SQL illustrant les principales opérations DDL et DML : création et modification de tables, insert / update / delete, requêtes SELECT, jointures, agrégations (GROUP BY, HAVING) et contrôles de qualité des données.
 
-- **[sherlock](https://github.com/liliandoublet/sherlock)** : pipeline NLP français prêt pour la production. Construit avec uv, Pydantic, Typer CLI, loguru, MLflow, CamemBERT, pytest et GitHub Actions CI.
+- **[sherlock](https://github.com/liliandoublet/sherlock)** : pipeline NLP français de niveau production. Construit avec uv, Pydantic, CLI Typer, loguru, MLflow, CamemBERT, pytest et GitHub Actions CI.
 
-- **[camembert-discours-politique](https://github.com/liliandoublet/GraduateProject)** : CamemBERT fine-tuné pour la classification multi-classes du discours politique français. Plus de 15 000 textes annotés, suivi d'expériences avec MLflow, mémoire noté 87/100.
+- **[askmydocs](https://github.com/liliandoublet/askmydocs)** : assistant RAG pour interroger vos propres documents. Construit avec ChromaDB, l'API Gemini et une stack Streamlit / Docker, avec un harnais d'évaluation mesurant le hit rate et le rappel par mots-clés.
 
-- **[askmydocs](https://github.com/liliandoublet/askmydocs)** : assistant RAG pour interroger vos propres documents. Construit avec ChromaDB, l'API Gemini et une stack Streamlit / Docker, avec un harnais d'évaluation mesurant le hit rate et le keyword recall.
+- **[techradar](https://github.com/liliandoublet/techradar)** : agent serverless sur AWS (Lambda, S3, EventBridge) qui collecte et résume l'actualité tech avec Google Gemini et LangGraph, puis la diffuse par email via SendGrid.
 
-- **[techradar](https://github.com/liliandoublet/techradar)** : agent AWS serverless (Lambda, S3, EventBridge) qui scrape et résume l'actualité tech avec Google Gemini et LangGraph, livré par email via SendGrid.
+- **[newflights](https://github.com/liliandoublet/newflights)** : application d'optimisation de prix de billets d'avion. Frontend React / TypeScript / Vite, backend FastAPI.
 
-- **[newflights](https://github.com/liliandoublet/newflights)** : application d'optimisation de billets d'avion. Frontend React / TypeScript / Vite, backend FastAPI.
+---
+---
+
+### 🚧 En cours de développement
+
+- **[health-data-platform](https://github.com/liliandoublet/health-data-platform)** : plateforme de données de santé de bout en bout sur données patients synthétiques (Synthea) : pipelines dbt, entrepôt Snowflake/BigQuery, streaming Kafka, orchestration Airflow sur Kubernetes.
+
+- **[moliere](https://github.com/liliandoublet/moliere)** : assistant de rédaction français local et conforme au RGPD, disponible en deux versions : l'une propulsée par un LLM, l'autre par le moteur à règles Grammalecte.
+
+- **[newflights](https://github.com/liliandoublet/newflights)** : application d'optimisation de prix de billets d'avion. Frontend React / TypeScript / Vite, backend FastAPI.
 
 ---
 
@@ -81,5 +107,5 @@
 <p>
   <a href="https://www.linkedin.com/in/liliandoublet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:liliandoublet@gmail.com"><img src="https://img.shields.io/badge/Email-liliandoublet@gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Paris,_France-555?logo=googlemaps&logoColor=white" alt="Localisation">
+  <img src="https://img.shields.io/badge/Paris,_France-555?logo=googlemaps&logoColor=white" alt="Location">
 </p>
