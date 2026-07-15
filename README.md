@@ -94,7 +94,7 @@
 
 ### 🚧 Work in progress
 
-- **[data-engineer-toolbox](https://github.com/liliandoublet/data-engineer-toolbox)**: Portfolio and learning repo to master the core data engineering tools (dbt, Snowflake, Airflow, and more), with hands-on examples and documentation.
+- **[health-data-platform](https://github.com/liliandoublet/health-data-platform)**: End-to-end healthcare data platform on synthetic patient data (Synthea): dbt pipelines, Snowflake/BigQuery warehousing, Kafka streaming, Airflow orchestration on Kubernetes.
 
 - **[moliere](https://github.com/liliandoublet/moliere)**: Local, GDPR-compliant French writing assistant, available in two versions: one powered by an LLM, the other by the rule-based Grammalecte engine.
 
