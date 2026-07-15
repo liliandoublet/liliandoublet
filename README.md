@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  🔭 Open to <b>Data Scientist, AI Engineer, Data Analyst and Consultant</b> roles.
+  🔭 Open to <b>Data Scientist, AI Engineer </b> roles.
 </p>
 
 ---
