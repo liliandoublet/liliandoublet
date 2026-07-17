@@ -75,17 +75,15 @@
 
 ### 📌 Featured projects
 
+- **[askmydocs](https://github.com/liliandoublet/askmydocs)**: RAG assistant for querying your own documents. Built with ChromaDB, the Gemini API and a Streamlit / Docker stack, with an evaluation harness measuring hit rate   and keyword recall.
+
+- **[techradar](https://github.com/liliandoublet/techradar)**: Serverless AWS agent (Lambda, S3, EventBridge) that scrapes and summarizes tech news with Google Gemini and LangGraph, delivered by email via SendGrid.
+
 - **[HR-Dashboard](https://github.com/liliandoublet/HR-Dashboard)**: Interactive HR analytics dashboard (Python, Dash, Plotly) built during my Data Analyst internship at Crédit Mutuel Alliance Fédérale. Turns 50,000+ HR records into KPIs and self-service reporting for the HR Digital Transformation team.
 
 - **[walmart-sales-forecasting](https://github.com/liliandoublet/walmart-sales-forecasting)**: Sales forecasting dashboard in Power BI. Star schema, DAX measures and SARIMA forecasting reaching 2.22% MAPE, designed to support business decision-making.
 
-- **[sql-portfolio](https://github.com/liliandoublet/sql-portfolio)**: SQL project showcasing core DDL and DML operations: table creation and modification, insert / update / delete, SELECT queries, joins, aggregations (GROUP BY, HAVING) and data quality checks.
-
 - **[sherlock](https://github.com/liliandoublet/sherlock)**: Production-grade French NLP pipeline. Built with uv, Pydantic, Typer CLI, loguru, MLflow, CamemBERT, pytest and GitHub Actions CI.
-
-- **[askmydocs](https://github.com/liliandoublet/askmydocs)**: RAG assistant for querying your own documents. Built with ChromaDB, the Gemini API and a Streamlit / Docker stack, with an evaluation harness measuring hit rate   and keyword recall.
-
-- **[techradar](https://github.com/liliandoublet/techradar)**: Serverless AWS agent (Lambda, S3, EventBridge) that scrapes and summarizes tech news with Google Gemini and LangGraph, delivered by email via SendGrid.
 
 - **[newflights](https://github.com/liliandoublet/newflights)**: Airfare optimization app. React / TypeScript / Vite frontend, FastAPI backend.
 
@@ -96,9 +94,10 @@
 
 - **[health-data-platform](https://github.com/liliandoublet/health-data-platform)**: End-to-end healthcare data platform on synthetic patient data (Synthea): dbt pipelines, Snowflake/BigQuery warehousing, Kafka streaming, Airflow orchestration on Kubernetes.
 
+- **[datascience-toolbox](https://github.com/liliandoublet/datascience-toolbox)**: Reference data science toolkit, 14 notebooks spanning supervised, unsupervised, NLP, computer vision, recommendation and reinforcement learning. Built with uv, ruff, scikit-learn, LightGBM, PyTorch, Jupyter.
+
 - **[moliere](https://github.com/liliandoublet/moliere)**: Local, GDPR-compliant French writing assistant, available in two versions: one powered by an LLM, the other by the rule-based Grammalecte engine.
 
-- **[newflights](https://github.com/liliandoublet/newflights)**: Airfare optimization app. React / TypeScript / Vite frontend, FastAPI backend.
 
 ---
 
