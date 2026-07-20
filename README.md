@@ -94,7 +94,7 @@
 
 - **[health-data-platform](https://github.com/liliandoublet/health-data-platform)**: End-to-end healthcare data platform on synthetic patient data (Synthea): dbt pipelines, Snowflake/BigQuery warehousing, Kafka streaming, Airflow orchestration on Kubernetes.
 
-- **[datascience-toolbox](https://github.com/liliandoublet/datascience-toolbox)**: Reference data science toolkit, 14 exercice and their solution notebooks spanning supervised, unsupervised, NLP, computer vision, recommendation and reinforcement learning. Built with uv, ruff, scikit-learn, LightGBM, PyTorch, Jupyter.
+- **[datascience-toolbox](https://github.com/liliandoublet/data-science-toolbox)**: Reference data science toolkit, 14 exercice and their solution notebooks spanning supervised, unsupervised, NLP, computer vision, recommendation and reinforcement learning. Built with uv, ruff, scikit-learn, LightGBM, PyTorch, Jupyter.
 
 - **[moliere](https://github.com/liliandoublet/moliere)**: Local, GDPR-compliant French writing assistant, available in two versions: one powered by an LLM, the other by the rule-based Grammalecte engine.
 
