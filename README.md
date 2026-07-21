@@ -63,7 +63,7 @@
 
 **ML / NLP**: scikit-learn, Hugging Face Transformers (CamemBERT), time series forecasting (ARIMA, SARIMA, LSTM)
 
-**GenAI / LLM**: Retrieval-Augmented Generation (RAG), LangGraph, Anthropic Claude API, Gemini API, ChromaDB, Ollama
+**GenAI / LLM**: Retrieval-Augmented Generation (RAG), LangGraph, Anthropic Claude API, Gemini API, Mistral API, ChromaDB, Ollama
 
 **Databases**: PostgreSQL, VerticaPy
 
