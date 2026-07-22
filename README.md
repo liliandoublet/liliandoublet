@@ -91,11 +91,12 @@ Graduating project (DBAN, Rennes School of Business, 2026): fine-tuning CamemBER
 
 - **[HR-Dashboard](https://github.com/liliandoublet/HR-Dashboard)**: Interactive HR analytics dashboard (Python, Dash, Plotly) built during my Data Analyst internship at Crédit Mutuel Alliance Fédérale. Turns 50,000+ HR records into KPIs and self-service reporting for the HR Digital Transformation team.
 
-- **[walmart-sales-forecasting](https://github.com/liliandoublet/walmart-sales-forecasting)**: Sales forecasting dashboard in Power BI. Star schema, DAX measures and SARIMA forecasting reaching 2.22% MAPE, designed to support business decision-making.
-
 - **[sherlock](https://github.com/liliandoublet/sherlock)**: Production-grade French NLP pipeline. Built with uv, Pydantic, Typer CLI, loguru, MLflow, CamemBERT, pytest and GitHub Actions CI.
 
 - **[newflights](https://github.com/liliandoublet/newflights)**: Airfare optimization app. React / TypeScript / Vite frontend, FastAPI backend.
+
+- **[walmart-sales-forecasting](https://github.com/liliandoublet/walmart-sales-forecasting)**: Sales forecasting dashboard in Power BI. Star schema, DAX measures and SARIMA forecasting reaching 2.22% MAPE, designed to support business decision-making.
+
 
 ---
 ---
