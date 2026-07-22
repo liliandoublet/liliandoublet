@@ -5,8 +5,6 @@
   <a href="README.fr.md"><img src="https://img.shields.io/badge/Langue-Fran%C3%A7ais-red" alt="Français"></a>
 </p>
 
-<a href="https://github.com/liliandoublet/sherlock/blob/main/Doublet_Lilian_Thesis_Political_NLP.pdf"><img src="https://img.shields.io/badge/Master's_Thesis-PDF-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Master's Thesis PDF"></a>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
