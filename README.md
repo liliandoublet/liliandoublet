@@ -46,7 +46,7 @@
 ### 🎓 Master's Thesis
 
 <p>
-  <a href="https://github.com/liliandoublet/liliandoublet/blob/main/thesis.pdf"><img src="https://img.shields.io/badge/Master's_Thesis-Political_Analysis_using_NLP_%26_LLMs-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Master's Thesis PDF"></a>
+  <a href="https://github.com/liliandoublet/liliandoublet/blob/main/Doublet_Lilian_Thesis_Political_NLP.pdf.pdf"><img src="https://img.shields.io/badge/Master's_Thesis-Political_Analysis_using_NLP_%26_LLMs-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Master's Thesis PDF"></a>
 </p>
 
 Graduating project (DBAN, Rennes School of Business, 2026): fine-tuning CamemBERT on French political texts for stance and topic classification. Graded 87/100.
