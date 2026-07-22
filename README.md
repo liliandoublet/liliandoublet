@@ -5,6 +5,8 @@
   <a href="README.fr.md"><img src="https://img.shields.io/badge/Langue-Fran%C3%A7ais-red" alt="Français"></a>
 </p>
 
+<a href="https://github.com/liliandoublet/sherlock/blob/main/Doublet_Lilian_Thesis_Political_NLP.pdf"><img src="https://img.shields.io/badge/Master's_Thesis-PDF-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Master's Thesis PDF"></a>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
@@ -40,6 +42,16 @@
 🧑‍🎓 Lifelong learner, always curious and autonomous
 
 🧩 Problem solver at heart, always chasing the next challenge
+
+---
+
+### 🎓 Master's Thesis
+
+<p>
+  <a href="https://github.com/liliandoublet/liliandoublet/blob/main/thesis.pdf"><img src="https://img.shields.io/badge/Master's_Thesis-Political_Analysis_using_NLP_%26_LLMs-8A2BE2?logo=adobeacrobatreader&logoColor=white" alt="Master's Thesis PDF"></a>
+</p>
+
+Graduating project (DBAN, Rennes School of Business, 2026): fine-tuning CamemBERT on French political texts for stance and topic classification. Graded 87/100.
 
 ---
 
